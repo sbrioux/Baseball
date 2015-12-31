@@ -1,0 +1,12 @@
+{
+    "name": "brioux/baseball",
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Shayne Brioux",
+            "email": "sbrioux@gmail.com"
+        }
+    ]
+}
