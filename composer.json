@@ -1,7 +1,14 @@
 {
     "name": "brioux/baseball",
+    "description": "This is a repository of some class files for creating a baseball application",
+    "license": "MIT",
     "require": {
         "guzzle/guzzle": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Baseball\\": "src/Brioux/"
+        }
     },
     "authors": [
         {
